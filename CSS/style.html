@@ -7,11 +7,41 @@
   <body>
     <style>
       p {color: red;}
+      .redbround
+      {
+        background-color: red;
+      }
+      .crazy
+      {
+        color: lightblue;
+        font-size: 50px;
+        background-color: firebrick;
+      }
+      .boring
+      {
+        color: olive;
+        font-size: 10px;
+      }
     </style>
 
     <p>
       hello! I am red!
     </p>
+
+    <table>
+      <thead>
+          <caption class="redbround">this is gonna be a good one!</caption>
+          <tr>
+            <th>col 1</th>
+            <th>col 2</th>
+            <th>col 3</th>
+          </tr>
+      </thead>
+      <tbody>
+        <td class="boring"> not so boring</td>
+        <td class="redbround"> pretty cool</td>
+        <td class="crazy">a bit too much</td>
+      </tbody>
 
   </body>
 </html>
