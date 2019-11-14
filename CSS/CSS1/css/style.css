@@ -167,3 +167,12 @@ a:visited
   padding: 8px;
   width: 100%;
 }
+
+.block
+{
+  float:left;
+  width: 33.3%;
+  border: 1px grey solid;
+  padding: 10px;
+  box-sizing: border-box;
+}
