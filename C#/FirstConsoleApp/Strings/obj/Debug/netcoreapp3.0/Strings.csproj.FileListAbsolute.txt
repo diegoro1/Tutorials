@@ -1,0 +1,11 @@
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Strings/obj/Debug/netcoreapp3.0/Strings.csprojAssemblyReference.cache
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Strings/obj/Debug/netcoreapp3.0/Strings.AssemblyInfoInputs.cache
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Strings/obj/Debug/netcoreapp3.0/Strings.AssemblyInfo.cs
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Strings/bin/Debug/netcoreapp3.0/Strings
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Strings/bin/Debug/netcoreapp3.0/Strings.deps.json
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Strings/bin/Debug/netcoreapp3.0/Strings.runtimeconfig.json
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Strings/bin/Debug/netcoreapp3.0/Strings.runtimeconfig.dev.json
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Strings/bin/Debug/netcoreapp3.0/Strings.dll
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Strings/bin/Debug/netcoreapp3.0/Strings.pdb
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Strings/obj/Debug/netcoreapp3.0/Strings.dll
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Strings/obj/Debug/netcoreapp3.0/Strings.pdb

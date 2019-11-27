@@ -1,0 +1,11 @@
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/FirstConsoleApp/bin/Debug/netcoreapp3.0/FirstConsoleApp
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/FirstConsoleApp/bin/Debug/netcoreapp3.0/FirstConsoleApp.deps.json
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/FirstConsoleApp/bin/Debug/netcoreapp3.0/FirstConsoleApp.runtimeconfig.json
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/FirstConsoleApp/bin/Debug/netcoreapp3.0/FirstConsoleApp.runtimeconfig.dev.json
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/FirstConsoleApp/bin/Debug/netcoreapp3.0/FirstConsoleApp.dll
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/FirstConsoleApp/bin/Debug/netcoreapp3.0/FirstConsoleApp.pdb
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/FirstConsoleApp/obj/Debug/netcoreapp3.0/FirstConsoleApp.csprojAssemblyReference.cache
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/FirstConsoleApp/obj/Debug/netcoreapp3.0/FirstConsoleApp.AssemblyInfoInputs.cache
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/FirstConsoleApp/obj/Debug/netcoreapp3.0/FirstConsoleApp.AssemblyInfo.cs
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/FirstConsoleApp/obj/Debug/netcoreapp3.0/FirstConsoleApp.dll
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/FirstConsoleApp/obj/Debug/netcoreapp3.0/FirstConsoleApp.pdb

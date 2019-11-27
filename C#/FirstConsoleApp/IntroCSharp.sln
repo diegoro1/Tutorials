@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstConsoleApp", "FirstConsoleApp\FirstConsoleApp.csproj", "{F2280BFD-2CFB-452F-A476-122A055781AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{E9CF9A06-1667-4032-B929-1148F8023049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2280BFD-2CFB-452F-A476-122A055781AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2280BFD-2CFB-452F-A476-122A055781AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2280BFD-2CFB-452F-A476-122A055781AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2280BFD-2CFB-452F-A476-122A055781AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9CF9A06-1667-4032-B929-1148F8023049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CF9A06-1667-4032-B929-1148F8023049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CF9A06-1667-4032-B929-1148F8023049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CF9A06-1667-4032-B929-1148F8023049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
