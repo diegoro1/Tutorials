@@ -1,25 +1,21 @@
-﻿<Properties StartupConfiguration="{E9CF9A06-1667-4032-B929-1148F8023049}|Default">
+﻿<Properties StartupConfiguration="{48F3A37E-0A24-426E-B719-1765232FF46D}|Default">
   <MonoDevelop.Ide.ItemProperties.FirstConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FirstConsoleApp/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatesAndTime/Program.cs">
     <Files>
-      <File FileName="Strings/Program.cs" Line="1" Column="1" />
-      <File FileName="FirstConsoleApp/Program.cs" Line="1" Column="1" />
+      <File FileName="DatesAndTime/Program.cs" Line="11" Column="57" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="IntroCSharp" expanded="True">
-            <Node name="FirstConsoleApp" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="Strings" expanded="True" />
-          </Node>
+          <Node />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Math PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DatesAndTime PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

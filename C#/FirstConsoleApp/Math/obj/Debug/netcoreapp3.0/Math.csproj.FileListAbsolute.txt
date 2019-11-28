@@ -1,0 +1,10 @@
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Math/obj/Debug/netcoreapp3.0/Math.AssemblyInfoInputs.cache
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Math/obj/Debug/netcoreapp3.0/Math.AssemblyInfo.cs
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Math/bin/Debug/netcoreapp3.0/Math
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Math/bin/Debug/netcoreapp3.0/Math.deps.json
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Math/bin/Debug/netcoreapp3.0/Math.runtimeconfig.json
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Math/bin/Debug/netcoreapp3.0/Math.runtimeconfig.dev.json
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Math/bin/Debug/netcoreapp3.0/Math.dll
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Math/bin/Debug/netcoreapp3.0/Math.pdb
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Math/obj/Debug/netcoreapp3.0/Math.dll
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/Math/obj/Debug/netcoreapp3.0/Math.pdb

@@ -1,0 +1,10 @@
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/DatesAndTime/bin/Debug/netcoreapp3.0/DatesAndTime
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/DatesAndTime/bin/Debug/netcoreapp3.0/DatesAndTime.deps.json
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/DatesAndTime/bin/Debug/netcoreapp3.0/DatesAndTime.runtimeconfig.json
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/DatesAndTime/bin/Debug/netcoreapp3.0/DatesAndTime.runtimeconfig.dev.json
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/DatesAndTime/bin/Debug/netcoreapp3.0/DatesAndTime.dll
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/DatesAndTime/bin/Debug/netcoreapp3.0/DatesAndTime.pdb
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/DatesAndTime/obj/Debug/netcoreapp3.0/DatesAndTime.AssemblyInfoInputs.cache
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/DatesAndTime/obj/Debug/netcoreapp3.0/DatesAndTime.AssemblyInfo.cs
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/DatesAndTime/obj/Debug/netcoreapp3.0/DatesAndTime.dll
+/Users/diegorodrigues/Desktop/tutorials/C#/FirstConsoleApp/DatesAndTime/obj/Debug/netcoreapp3.0/DatesAndTime.pdb
