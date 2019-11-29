@@ -1,0 +1,11 @@
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Properties.Resources.resources
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe.config
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.pdb
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibraryFramework.dll
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibraryFramework.pdb
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CopyComplete
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.exe
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.pdb

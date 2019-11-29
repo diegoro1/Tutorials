@@ -8,28 +8,26 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "/Users/diegorodrigues/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\diego\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diegorodrigues/Desktop/tutorials/C#/SchoolApp/SchoolLibrary/SchoolLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\Desktop\\Tutorials\\C#\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj",
       "projectName": "SchoolLibrary",
-      "projectPath": "/Users/diegorodrigues/Desktop/tutorials/C#/SchoolApp/SchoolLibrary/SchoolLibrary.csproj",
-      "packagesPath": "/Users/diegorodrigues/.nuget/packages/",
-      "outputPath": "/Users/diegorodrigues/Desktop/tutorials/C#/SchoolApp/SchoolLibrary/obj/",
+      "projectPath": "C:\\Users\\diego\\Desktop\\Tutorials\\C#\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj",
+      "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\diego\\Desktop\\Tutorials\\C#\\SchoolApp\\SchoolLibrary\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/diegorodrigues/.config/NuGet/NuGet.Config"
+        "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

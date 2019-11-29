@@ -1,0 +1,8 @@
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.1\SchoolLibrary.deps.json
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.1\SchoolLibrary.dll
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.1\SchoolLibrary.pdb
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.1\SchoolLibrary.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.1\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.1\SchoolLibrary.AssemblyInfo.cs
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.1\SchoolLibrary.dll
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.1\SchoolLibrary.pdb

@@ -1,0 +1,4 @@
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolLibraryFramework\bin\Debug\SchoolLibraryFramework.dll
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolLibraryFramework\bin\Debug\SchoolLibraryFramework.pdb
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolLibraryFramework\obj\Debug\SchoolLibraryFramework.dll
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolLibraryFramework\obj\Debug\SchoolLibraryFramework.pdb
