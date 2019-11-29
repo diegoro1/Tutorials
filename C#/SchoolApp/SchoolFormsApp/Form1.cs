@@ -12,9 +12,19 @@ namespace SchoolFormsApp
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        private void label9_Click(object sender, EventArgs e)
         {
-            InitializeComponent();
+
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
