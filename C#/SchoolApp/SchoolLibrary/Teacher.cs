@@ -1,10 +1,24 @@
 ﻿using System;
 namespace SchoolLibrary
 {
-    public class Teacher
+    public class Teacher : Person
     {
-        public Teacher()
+        private string Subject;
+
+
+        // Getter and Setter methods
+        public void SetSubject(string _subject)
         {
+            Subject = _subject;
         }
-    }
+        public string GetSubject()
+        {
+            return Subject;
+        }
+
+        public override float ComputeGradeAverage()
+        {
+            return 4.0f;
+        }
+    }    
 }
