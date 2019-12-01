@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using SchoolLibrary; // to use the code we have been making
 
 namespace SchoolFormsApp
 {
@@ -25,6 +26,12 @@ namespace SchoolFormsApp
         private void label12_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnPush_to_test_Click(object sender, EventArgs e)
+        {
+            School testSchool = new School(txtSchool_name.Text, txtNumber.Text); // gets values from text boxes
+            MessageBox.Show(testSchool.ToString());
         }
     }
 }

@@ -9,3 +9,4 @@ C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLib
 C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CopyComplete
 C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.exe
 C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.pdb
+C:\Users\diego\Desktop\Tutorials\C#\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Form1.resources

@@ -150,6 +150,7 @@
             this.btnPush_to_test.TabIndex = 12;
             this.btnPush_to_test.Text = "Push to Test";
             this.btnPush_to_test.UseVisualStyleBackColor = true;
+            this.btnPush_to_test.Click += new System.EventHandler(this.btnPush_to_test_Click);
             // 
             // Form1
             // 
