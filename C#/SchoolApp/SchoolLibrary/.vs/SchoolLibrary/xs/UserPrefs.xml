@@ -1,17 +1,18 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Student.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iScored.cs">
     <Files>
       <File FileName="School.cs" Line="1" Column="1" />
-      <File FileName="Teacher.cs" Line="4" Column="12" />
-      <File FileName="Person.cs" Line="4" Column="12" />
-      <File FileName="Student.cs" Line="6" Column="9" />
+      <File FileName="Teacher.cs" Line="19" Column="9" />
+      <File FileName="Person.cs" Line="35" Column="27" />
+      <File FileName="Student.cs" Line="27" Column="39" />
+      <File FileName="iScored.cs" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SchoolLibrary" expanded="True">
             <Node name="SchoolLibrary" expanded="True">
-              <Node name="Student.cs" selected="True" />
+              <Node name="IScored.cs" selected="True" />
             </Node>
           </Node>
         </State>
