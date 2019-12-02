@@ -1,0 +1,14 @@
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\obj\Debug\App.g.cs
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator_MarkupCompile.cache
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator_MarkupCompile.lref
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\obj\Debug\MainWindow.baml
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.g.resources
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
+C:\Users\diego\Desktop\Tutorials\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb
