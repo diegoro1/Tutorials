@@ -1,0 +1,14 @@
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\bin\Debug\WPF-App1.exe.config
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\bin\Debug\WPF-App1.exe
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\bin\Debug\WPF-App1.pdb
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\obj\Debug\WPF-App1.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\obj\Debug\MainWindow.g.cs
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\obj\Debug\App.g.cs
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\obj\Debug\WPF-App1_MarkupCompile.cache
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\obj\Debug\WPF-App1_MarkupCompile.lref
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\obj\Debug\MainWindow.baml
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\obj\Debug\WPF-App1.g.resources
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\obj\Debug\WPF_App1.Properties.Resources.resources
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\obj\Debug\WPF-App1.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\obj\Debug\WPF-App1.exe
+C:\Users\diego\Desktop\Tutorials\C#\WPF-App1\WPF-App1\obj\Debug\WPF-App1.pdb
