@@ -183,3 +183,76 @@ if let actualNumber = Int(possibleNumber)
 {
     print(actualNumber)
 }
+
+// if any of the values f the optional binding are nill or any of the booleans are false
+// the statement will be false
+var veryTrue = true
+if let optional1 = Int("4"), let oprional2 = Int("5"), veryTrue
+{
+    print("first optional working!: \(optional1), \(oprional2)")
+}
+
+if let optional3 = Int("hey!"), let optional4 = Int("45"), veryTrue
+{
+    print("This wont print :)")
+}
+
+let veryFalse = false
+if let opitonal5 = Int("1"), let optinal6 = Int("1"), veryFalse
+{
+    print("Nope!")
+}
+
+// implicetly unwrapping optionals
+// this is kind of how pointers are dereferenced in C/C++
+let niceString: String? = "You are amazing!"
+print(niceString!)
+
+/* this will lead to an error as I know from dereferencing null pointers
+ let badString: String? (nil by default)
+ print(badString!)
+*/
+
+// this works!
+let badString: String? = nil
+if badString == nil
+{
+    print("We got this!!")
+}
+
+let badInt = Int("ohh no, this is naughty")
+if badInt == nil
+{
+    print("this could have been bad!")
+}
+
+
+//--------------------------------------------------------------------------------------------------------
+//                                              Assetions/preconditions
+//--------------------------------------------------------------------------------------------------------
+
+var age = 55
+assert(age >= 50, "Only boomers allowed")
+print(age)
+
+// age = 30
+// assert(age > 50, "Only boomers allowed")
+// Assertion failed: Only boomers allowed: file basics.playground, line 239
+// ^ thats what happens when boomers are invited to parties ^
+
+// this is also nice
+/*
+if(age < 50)
+{
+    print("age > 20")
+}
+else
+{
+    assertionFailure("Dude for real, only boomers allowed!")
+}
+*/
+// Fatal error: Dude for real, only boomers allowed!: file basics.playground, line 250
+// ^ thats what happens when boomers are invited to parties ^ SQUARED.
+
+// precondition(age < 50, "ONLY BOOMERS PLEASE!")
+// ^^ Precondition failed: ONLY BOOMERS PLEASE!: file basics.playground, line 257 ^^
