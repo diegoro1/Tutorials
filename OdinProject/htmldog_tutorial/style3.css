@@ -1,0 +1,185 @@
+body
+{
+    background: white url(https://www.newenglandsalts.com/wp-content/uploads/2019/05/coconut.jpg) no-repeat center;
+}
+
+
+#top
+{
+    background-color: #ccc;
+    padding: 20px;
+}
+
+.outro
+{
+    background-color: #ccc;
+    padding: 20px;
+    text-align: center;
+    font-size: 0.3em;
+}
+
+.intro
+{
+    color: red;
+    font-weight: bold;
+}
+
+.dram
+{
+    color: bisque;
+    font-style: oblique;
+}
+
+.toodrama
+{
+    color: burlywood;
+    font-style: unset;
+}
+
+.dramalama
+{
+    color: darkcyan;
+    font-style: italic;
+}
+
+#middle
+{
+    text-align: center;
+    padding: 40px;
+    margin: 20px;
+    background-color: darkgray;
+    border-style: dashed;
+    border-width: thick;
+}
+
+h3, .aclass, .anotherclass
+{
+    color: burlywood;
+}
+
+#bottom
+{
+    background-color: cadetblue;
+    padding: 40px;
+    margin: 20px;
+    text-align: center;
+}
+
+#bottom h1
+{
+    color: #ff0;
+}
+
+#bottom p
+{
+    color: #ffff90;
+}
+
+a:link
+{
+    color: darkgreen;
+}
+
+a:hover
+{
+    color: darkred;
+}
+
+#bottomost
+{
+    background-color: dimgray;
+    padding: 40px;
+    margin: 50px;
+}
+
+#bottomost p:first-of-type
+{   
+    font-size: 40px;
+}
+
+#bottomost p:last-child
+{
+    font-size: 10px;
+    font-style: italic;
+}
+
+#marging
+{
+    background-color: dodgerblue;
+    margin: 20px 40px 20px 40px;
+    padding: 40px 20px 40px 20px;
+}
+
+#marging p
+{
+    border: 4px red solid;
+}
+
+#marging ul
+{
+    margin: 40px 0px 40px 0px;
+}
+
+#marging li
+{
+    display: inline;
+    padding: 10px;
+    border-style: dotted;
+    margin: 20px 10px 20px 10px;
+}
+
+#listing
+{
+    background-color: lightgray;
+    margin: 20px 40px 20px 40px;
+    padding: 40px 20px 40px 20px;
+}
+
+#listing ul
+{
+    padding: 20px;
+}
+
+#listing li
+{
+    text-align: center;
+    background-color: lightpink;
+    border-style: solid;
+    display: block;
+    padding: 30px 20px;
+}
+
+#listing p::first-letter
+{
+    font-size: 40px;
+}
+
+#listing p::first-line
+{
+    font-style: italic;
+}
+
+#navigation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+}
+
+#content {
+    margin-left: 200px;
+}
+
+#navigation {
+    float: left;
+    width: 200px;
+}
+
+#navigation2 {
+    float: right;
+    width: 200px;
+}
+
+#content {
+    margin: 0 200px;
+}   

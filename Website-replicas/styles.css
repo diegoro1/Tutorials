@@ -1,0 +1,28 @@
+.body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.left_nav
+{
+    top: 10px;
+}
+
+.left_nav li
+{
+    padding: 10px;
+    display: inline;
+}
+
+.right_nav
+{
+    top: 10px;
+}
+
+.right_nav li
+{
+    display: inline ;
+    float: right;
+    padding: 10px;
+}

@@ -11,9 +11,17 @@ import UIKit
 class ViewController: UIViewController
 {
     lazy var game = Concentration(numberOfPairsOfCards: (cardButtons.count + 1) / 2)
+    var theme = Int(arc4random_uniform(3))
 
     var flipCount = 0 { didSet{ flipCountLabel.text = "Flip Count: \(flipCount)"}}
-
+    
+    @IBAction func newGame(_ sender: UIButton)
+    {
+        game = Concentration(numberOfPairsOfCards: (cardButtons.count + 1) / 2)
+        theme = Int(arc4random_uniform(3))
+    }
+    
+    
     @IBOutlet weak var flipCountLabel: UILabel!
     
     @IBOutlet var cardButtons: [UIButton]!
@@ -53,7 +61,27 @@ class ViewController: UIViewController
         }
     }
     
-    var emojiChoices = ["👻","🎃","🙀","🦇","🍬"]
+    
+    func gameThemeSetter(themeIndex: Int) -> Array<String>
+    {
+        switch themeIndex
+        {
+        case 0:
+            let theme1 = ["👻","🎃","🙀","🦇","🍬","🧙‍♂️","🦉"]
+            return theme1
+        case 1:
+            let theme2 = ["🐶","🐱","🐭","🐹","🐰","🦊","🐻"]
+            return theme2
+        case 2:
+            let theme3 = ["🍏","🍎","🍐","🍊","🍋","🍌","🍉"]
+            return theme3
+        default:
+            let theme = ["","","","","","",""]
+            return theme
+        }
+    }
+    
+    lazy var emojiChoices = gameThemeSetter(themeIndex: theme)
     
     var emoji = [Int:String]()
     

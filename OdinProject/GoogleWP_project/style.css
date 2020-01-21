@@ -1,0 +1,71 @@
+.navbar
+{
+    margin: 7px 0 0 10px;
+}
+
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 16px;
+}
+
+li
+{
+    display: inline;
+}
+
+li a
+{
+    display: inline;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    opacity: 75%;
+}
+
+.floatright
+{
+    float: right;
+}
+
+.square
+{
+    height: 40px;
+    width: 22px;
+    background-image: url(assets/square.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    bottom: 2px;
+}
+
+
+.user
+{
+    height: 40px;
+    width: 80px;
+    background-image: url(assets/signin.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    bottom: 10px;
+    margin-left: 10px;
+    
+}
+
+.logo
+{
+    text-align: center;
+    display: block;
+}
+
+.logo img
+{
+    padding-top: 109px;
+    position: absolute;
+    text-align: center;
+}

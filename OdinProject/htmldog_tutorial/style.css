@@ -1,0 +1,51 @@
+body
+{
+   font-size: 16px;
+   color: navy; 
+}
+
+h1
+{
+    color: #ffc;
+    background-color: #009;
+}
+/*
+p
+{
+    font-weight: bolder;
+    font-style: italic;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+*/
+
+p
+{
+    color: black;
+    letter-spacing: 0.05em;
+    word-spacing: .05em ;
+    line-height: 1.2;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 1.5em;
+    margin: 20px;
+    background-color: #ccc;
+    padding: 40px;
+    text-align: center;
+    border-style: solid;
+    border-color: #cccc22;
+    border-width: 20px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+}
+
+
+strong
+{
+    font-weight: bolder;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
