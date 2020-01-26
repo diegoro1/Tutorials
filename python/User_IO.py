@@ -40,7 +40,6 @@ while True:
     print("try again")
     number = int(input())
 
-"""
 topping = ['cheese', 'banana', 'steak']
 print("Enter topping and we'll check if we got it! ('no' to quit)")
 item = 'null'
@@ -53,3 +52,5 @@ while True:
         continue 
     
     print(f"{item} is a topping!")
+
+"""

@@ -18,3 +18,5 @@ print_name("oto", "herrason", 'goop')
 print_name("oto", "popo")
 
 
+def passy():
+    pass
