@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="button_1">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>460</y>
+      <width>141</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>What are you?</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_1">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>170</y>
+      <width>201</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>You are amazing!</string>
+    </property>
+    <property name="textFormat">
+     <enum>Qt::PlainText</enum>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFIle">
+    <property name="title">
+     <string>FIle</string>
+    </property>
+    <addaction name="actionYay"/>
+    <addaction name="actionNo_Way"/>
+    <addaction name="actionHow_fun"/>
+   </widget>
+   <widget class="QMenu" name="menuDont_Type_hEre">
+    <property name="title">
+     <string>Dont Type hEre</string>
+    </property>
+    <addaction name="actionWhy"/>
+   </widget>
+   <addaction name="menuFIle"/>
+   <addaction name="menuDont_Type_hEre"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionYay">
+   <property name="text">
+    <string>Yay</string>
+   </property>
+  </action>
+  <action name="actionNo_Way">
+   <property name="text">
+    <string>No Way!</string>
+   </property>
+  </action>
+  <action name="actionHow_fun">
+   <property name="text">
+    <string>How fun!</string>
+   </property>
+  </action>
+  <action name="actionWhy">
+   <property name="text">
+    <string>Why!</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
