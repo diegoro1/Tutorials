@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,EACA;EACI,KAAK,EAJD,KAAK;;AAOb,EACA;EACI,KAAK,EATD,KAAK;;AAcT,KACA;EACI,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,SAAS;AAG1B,MACA;EACI,WAAW,EAAE,yDAAyD",
+"sources": ["boot.scss"],
+"names": [],
+"file": "boot.css"
+}

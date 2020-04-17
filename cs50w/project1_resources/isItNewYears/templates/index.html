@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Is It NewYear</title>
+    <style>
+        body
+        {
+            display: flex;
+            align-content: center;
+            justify-content: center;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    {% if new_year %}
+        <h1>Yes! Happy New Year!</h1>
+    {% else %}
+        <h1>No.</h1>
+    {% endif %}
+</body>
+</html>

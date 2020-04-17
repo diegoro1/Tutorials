@@ -1,0 +1,25 @@
+$color: green;
+
+ul
+{
+    color: $color;
+}
+
+ol
+{
+    color: $color;
+}
+
+div
+{
+    p
+    {
+        font-size: 20px;
+        font-family: monospace;
+    }
+
+    ul
+    {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+}

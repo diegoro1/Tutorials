@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,QACA;EACI,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,OAAO;EAC9B;;;IAGE;EACF,QAAQ,EAAE,GAAG;EACb,YACA;IACI,gBAAgB,EAAE,IAAI;IACtB,OAAO,EAAE,GAAG;EAGhB,2BACA;IACI,gBAAgB,EAAE,IAAI",
+"sources": ["grid2.scss"],
+"names": [],
+"file": "grid2.css"
+}
